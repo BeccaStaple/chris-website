@@ -1,3 +1,9 @@
+# About this project
+This project is a website build for an illustrator to showcase thier portfolio.
+
+Website availble here: (website coming soon!)
+Hosted on Netlify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
